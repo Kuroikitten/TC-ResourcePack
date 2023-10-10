@@ -1,0 +1,4 @@
+type=item
+matchItems=minecraft:mangrove_propagule
+texture=fruit_tree_sapling.png
+nbt.display.Name=ipattern:*Fruit Tree Sapling*
